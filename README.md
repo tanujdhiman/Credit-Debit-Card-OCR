@@ -9,3 +9,4 @@ This model will tell us credit card number when you will give image to this OCR.
 ### Algorithm :
 
 * First we have a reference image of a Credit Card. So this says that all images that to be inserted in OCR are in that size or shape.
+* Input an image 
